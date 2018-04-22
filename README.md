@@ -1,1 +1,1 @@
-#React - Playing with conditional rendering!
+#React - Playing with conditional lists rendering!
